@@ -1,5 +1,11 @@
 # fast-api-docker
 
+## Development
+
+```shell
+uv run fastapi dev
+```
+
 ## Dockerfile
 
 Build
