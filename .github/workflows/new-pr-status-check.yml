@@ -6,7 +6,6 @@ on:
 
 jobs:
   lint-and-format:
-    name: python
     runs-on: ubuntu-latest
 
     steps:
